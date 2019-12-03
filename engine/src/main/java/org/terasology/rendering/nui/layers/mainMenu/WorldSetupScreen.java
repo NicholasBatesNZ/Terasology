@@ -15,15 +15,15 @@
  */
 package org.terasology.rendering.nui.layers.mainMenu;
 
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.config.Config;
 import org.terasology.context.Context;
 import org.terasology.engine.SimpleUri;
 import org.terasology.entitySystem.Component;
 import org.terasology.entitySystem.metadata.ComponentLibrary;
 import org.terasology.i18n.TranslationSystem;
-import org.terasology.module.ModuleEnvironment;
-import org.terasology.naming.Name;
+import org.terasology.gestalt.module.ModuleEnvironment;
+import org.terasology.gestalt.naming.Name;
 import org.terasology.reflection.metadata.FieldMetadata;
 import org.terasology.registry.In;
 import org.terasology.rendering.nui.CoreScreenLayer;

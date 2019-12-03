@@ -17,9 +17,9 @@ package org.terasology.logic.console.suggesters;
 
 import com.google.common.collect.Maps;
 import com.google.common.collect.Sets;
-import org.terasology.assets.Asset;
-import org.terasology.assets.ResourceUrn;
-import org.terasology.assets.management.AssetManager;
+import org.terasology.gestalt.assets.Asset;
+import org.terasology.gestalt.assets.ResourceUrn;
+import org.terasology.gestalt.assets.management.AssetManager;
 import org.terasology.entitySystem.entity.EntityRef;
 import org.terasology.logic.console.commandSystem.CommandParameterSuggester;
 

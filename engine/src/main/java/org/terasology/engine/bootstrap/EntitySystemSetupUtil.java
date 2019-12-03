@@ -38,7 +38,7 @@ import org.terasology.entitySystem.systems.internal.DoNotAutoRegister;
 import org.terasology.input.cameraTarget.CameraTargetChangedEvent;
 import org.terasology.input.events.InputEvent;
 import org.terasology.logic.characters.CharacterMoveInputEvent;
-import org.terasology.module.ModuleEnvironment;
+import org.terasology.gestalt.module.ModuleEnvironment;
 import org.terasology.network.NetworkSystem;
 import org.terasology.persistence.typeHandling.TypeHandlerLibrary;
 import org.terasology.persistence.typeHandling.extensionTypes.EntityRefTypeHandler;

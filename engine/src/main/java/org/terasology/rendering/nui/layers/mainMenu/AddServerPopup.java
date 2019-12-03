@@ -16,7 +16,7 @@
 package org.terasology.rendering.nui.layers.mainMenu;
 
 import com.google.common.primitives.Ints;
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.config.ServerInfo;
 import org.terasology.engine.TerasologyConstants;
 import org.terasology.rendering.nui.CoreScreenLayer;

@@ -21,9 +21,9 @@ import org.lwjgl.LWJGLException;
 import org.lwjgl.opengl.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.terasology.assets.AssetFactory;
-import org.terasology.assets.module.ModuleAssetDataProducer;
-import org.terasology.assets.module.ModuleAwareAssetTypeManager;
+import org.terasology.gestalt.assets.AssetFactory;
+import org.terasology.gestalt.assets.module.ModuleAssetScanner;
+import org.terasology.gestalt.assets.module.ModuleAwareAssetTypeManager;
 import org.terasology.config.Config;
 import org.terasology.config.RenderingConfig;
 import org.terasology.context.Context;
@@ -109,7 +109,7 @@ public class LwjglGraphics extends BaseLwjglSubsystem {
                 (urn, assetType, data) -> (new OpenGLTexture(urn, assetType, data, this)), "textures", "fonts");
         assetTypeManager.registerCoreFormat(Texture.class,
                 new PNGTextureFormat(Texture.FilterMode.NEAREST, path -> {
-                    if (path.getName(1).toString().equals(ModuleAssetDataProducer.OVERRIDE_FOLDER)) {
+                    if (path.getName(1).toString().equals(ModuleAssetScanner.OVERRIDE_FOLDER)) {
                         return path.getName(3).toString().equals("textures");
                     } else {
                         return path.getName(2).toString().equals("textures");
@@ -117,7 +117,7 @@ public class LwjglGraphics extends BaseLwjglSubsystem {
                     }));
         assetTypeManager.registerCoreFormat(Texture.class,
                 new PNGTextureFormat(Texture.FilterMode.LINEAR, path -> {
-                    if (path.getName(1).toString().equals(ModuleAssetDataProducer.OVERRIDE_FOLDER)) {
+                    if (path.getName(1).toString().equals(ModuleAssetScanner.OVERRIDE_FOLDER)) {
                         return path.getName(3).toString().equals("fonts");
                     } else {
                         return path.getName(2).toString().equals("fonts");

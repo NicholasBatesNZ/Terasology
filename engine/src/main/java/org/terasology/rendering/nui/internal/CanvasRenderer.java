@@ -15,7 +15,7 @@
  */
 package org.terasology.rendering.nui.internal;
 
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.math.Border;
 import org.terasology.math.geom.BaseVector2i;
 import org.terasology.math.geom.Quat4f;

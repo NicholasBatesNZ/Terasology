@@ -16,9 +16,9 @@
 package org.terasology.rendering.assets.texture;
 
 import org.junit.Test;
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.engine.TerasologyConstants;
-import org.terasology.naming.Name;
+import org.terasology.gestalt.naming.Name;
 import org.terasology.rendering.nui.Color;
 
 import static org.junit.Assert.assertEquals;

@@ -26,8 +26,8 @@ import org.slf4j.LoggerFactory;
 import org.terasology.context.Context;
 import org.terasology.engine.SimpleUri;
 import org.terasology.engine.module.ModuleManager;
-import org.terasology.module.Module;
-import org.terasology.naming.Name;
+import org.terasology.gestalt.module.Module;
+import org.terasology.gestalt.naming.Name;
 import org.terasology.reflection.copy.CopyStrategyLibrary;
 import org.terasology.reflection.reflect.ReflectFactory;
 

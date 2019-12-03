@@ -34,7 +34,7 @@ import org.terasology.entitySystem.entity.internal.EngineEntityManager;
 import org.terasology.game.Game;
 import org.terasology.logic.console.Console;
 import org.terasology.logic.console.ConsoleImpl;
-import org.terasology.naming.Name;
+import org.terasology.gestalt.naming.Name;
 import org.terasology.network.NetworkSystem;
 import org.terasology.network.internal.NetworkSystemImpl;
 import org.terasology.persistence.StorageManager;

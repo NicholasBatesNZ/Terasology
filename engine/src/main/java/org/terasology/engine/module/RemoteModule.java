@@ -19,8 +19,8 @@ package org.terasology.engine.module;
 import java.net.URL;
 import java.util.Collections;
 
-import org.terasology.module.BaseModule;
-import org.terasology.module.ModuleMetadata;
+import org.terasology.gestalt.module.BaseModule;
+import org.terasology.gestalt.module.ModuleMetadata;
 import com.google.common.collect.ImmutableList;
 
 /**

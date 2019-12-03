@@ -7,6 +7,10 @@ apply plugin: 'maven'
 apply plugin: 'com.jfrog.artifactory'
 apply plugin: 'maven-publish'
 
+repositories {
+    google()
+}
+
 // This configures what we need to interact with the MovingBlocks Artifactory instance. It is primarily for local use.
 // In Jenkins the Artifactory plugin can supply overrides for the following values
 artifactory {

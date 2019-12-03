@@ -15,7 +15,7 @@
  */
 package org.terasology.rendering.nui.layers.mainMenu.settings;
 
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.config.AudioConfig;
 import org.terasology.registry.In;
 import org.terasology.rendering.nui.CoreScreenLayer;

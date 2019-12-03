@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 package org.terasology.engine.subsystem.openvr;
-import org.terasology.assets.module.ModuleAwareAssetTypeManager;
+import org.terasology.gestalt.assets.module.ModuleAwareAssetTypeManager;
 import org.terasology.config.Config;
 import org.terasology.context.Context;
 import org.terasology.engine.modes.GameState;

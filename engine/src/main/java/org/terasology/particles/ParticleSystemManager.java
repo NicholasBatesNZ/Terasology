@@ -16,7 +16,7 @@
 package org.terasology.particles;
 
 import org.terasology.entitySystem.Component;
-import org.terasology.module.sandbox.API;
+import org.terasology.gestalt.module.sandbox.API;
 import org.terasology.particles.functions.affectors.AffectorFunction;
 import org.terasology.particles.functions.generators.GeneratorFunction;
 import org.terasology.particles.rendering.ParticleRenderingData;

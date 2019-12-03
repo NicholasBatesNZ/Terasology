@@ -21,7 +21,7 @@ import java.util.Optional;
 import java.util.Set;
 
 import org.terasology.i18n.assets.Translation;
-import org.terasology.naming.Name;
+import org.terasology.gestalt.naming.Name;
 
 /**
  * Describes a translation project. It aggregates individual translations (one per {@link Locale}).

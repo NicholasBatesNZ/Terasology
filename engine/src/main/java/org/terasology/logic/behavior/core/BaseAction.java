@@ -16,7 +16,7 @@
 package org.terasology.logic.behavior.core;
 
 import org.terasology.logic.behavior.BehaviorAction;
-import org.terasology.module.sandbox.API;
+import org.terasology.gestalt.module.sandbox.API;
 
 /**
  * BaseAction that uses BehaviorAction annotation as its name.

@@ -16,7 +16,7 @@
 
 package org.terasology.audio.nullAudio;
 
-import org.terasology.assets.AssetFactory;
+import org.terasology.gestalt.assets.AssetFactory;
 import org.terasology.audio.AudioEndListener;
 import org.terasology.audio.AudioManager;
 import org.terasology.audio.StaticSound;

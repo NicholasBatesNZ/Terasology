@@ -15,7 +15,7 @@
  */
 package org.terasology.rendering.nui;
 
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.input.Keyboard;
 import org.terasology.input.binds.general.TabbingUIButton;
 import org.terasology.input.events.MouseButtonEvent;

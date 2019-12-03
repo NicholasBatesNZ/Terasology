@@ -15,7 +15,7 @@
  */
 package org.terasology.rendering.nui.layers.ingame;
 
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.crashreporter.CrashReporter;
 import org.terasology.engine.LoggingContext;
 import org.terasology.engine.Time;

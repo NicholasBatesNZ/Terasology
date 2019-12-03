@@ -18,7 +18,7 @@ package org.terasology.rendering.primitives;
 import org.terasology.math.geom.Vector2f;
 import org.terasology.math.geom.Vector3f;
 import org.terasology.math.geom.Vector4f;
-import org.terasology.module.sandbox.API;
+import org.terasology.gestalt.module.sandbox.API;
 
 @API
 public final class TessellatorHelper {

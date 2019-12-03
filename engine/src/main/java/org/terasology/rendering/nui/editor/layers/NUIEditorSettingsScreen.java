@@ -16,7 +16,7 @@
 package org.terasology.rendering.nui.editor.layers;
 
 import com.google.common.collect.Lists;
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.config.Config;
 import org.terasology.engine.SimpleUri;
 import org.terasology.i18n.TranslationProject;

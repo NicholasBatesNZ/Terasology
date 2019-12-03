@@ -15,7 +15,7 @@
  */
 package org.terasology.audio;
 
-import org.terasology.assets.AssetFactory;
+import org.terasology.gestalt.assets.AssetFactory;
 import org.terasology.math.geom.Quat4f;
 import org.terasology.math.geom.Vector3f;
 

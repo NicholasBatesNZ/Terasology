@@ -17,7 +17,7 @@ package org.terasology.logic.console.ui;
 
 import com.google.common.collect.Iterables;
 import org.codehaus.plexus.util.StringUtils;
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.logic.console.Console;
 import org.terasology.logic.console.CoreMessageType;
 import org.terasology.logic.console.Message;

@@ -25,7 +25,7 @@ import org.lwjgl.opengl.GL13;
 import org.lwjgl.opengl.GL15;
 import org.terasology.engine.subsystem.lwjgl.GLBufferPool;
 import org.terasology.math.geom.Vector3f;
-import org.terasology.module.sandbox.API;
+import org.terasology.gestalt.module.sandbox.API;
 import org.terasology.rendering.VertexBufferObjectUtil;
 import org.terasology.rendering.assets.material.Material;
 import org.terasology.world.chunks.ChunkConstants;

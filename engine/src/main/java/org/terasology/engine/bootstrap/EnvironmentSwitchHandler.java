@@ -17,7 +17,7 @@ package org.terasology.engine.bootstrap;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.terasology.assets.module.ModuleAwareAssetTypeManager;
+import org.terasology.gestalt.assets.module.ModuleAwareAssetTypeManager;
 import org.terasology.config.flexible.AutoConfigManager;
 import org.terasology.context.Context;
 import org.terasology.engine.SimpleUri;
@@ -31,7 +31,7 @@ import org.terasology.entitySystem.prefab.Prefab;
 import org.terasology.entitySystem.prefab.internal.PrefabDeltaFormat;
 import org.terasology.entitySystem.prefab.internal.PrefabFormat;
 import org.terasology.entitySystem.systems.internal.DoNotAutoRegister;
-import org.terasology.module.ModuleEnvironment;
+import org.terasology.gestalt.module.ModuleEnvironment;
 import org.terasology.persistence.typeHandling.RegisterTypeHandler;
 import org.terasology.persistence.typeHandling.RegisterTypeHandlerFactory;
 import org.terasology.persistence.typeHandling.TypeHandler;
@@ -45,7 +45,7 @@ import org.terasology.reflection.copy.CopyStrategy;
 import org.terasology.reflection.copy.CopyStrategyLibrary;
 import org.terasology.reflection.copy.RegisterCopyStrategy;
 import org.terasology.registry.InjectionHelper;
-import org.terasology.util.reflection.GenericsUtil;
+import org.terasology.gestalt.util.reflection.GenericsUtil;
 import org.terasology.utilities.ReflectionUtil;
 
 import java.lang.reflect.Type;

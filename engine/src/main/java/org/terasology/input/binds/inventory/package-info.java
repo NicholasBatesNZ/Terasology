@@ -19,4 +19,4 @@
 ) package org.terasology.input.binds.inventory;
 
 import org.terasology.input.InputCategory;
-import org.terasology.module.sandbox.API;
+import org.terasology.gestalt.module.sandbox.API;

@@ -18,7 +18,7 @@ package org.terasology.rendering.nui.layers.mainMenu;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.config.WebBrowserConfig;
 import org.terasology.rendering.nui.CoreScreenLayer;
 import org.terasology.rendering.nui.WidgetUtil;

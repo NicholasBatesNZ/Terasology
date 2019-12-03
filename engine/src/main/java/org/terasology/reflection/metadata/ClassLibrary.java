@@ -17,8 +17,8 @@
 package org.terasology.reflection.metadata;
 
 import org.terasology.engine.SimpleUri;
-import org.terasology.module.Module;
-import org.terasology.naming.Name;
+import org.terasology.gestalt.module.Module;
+import org.terasology.gestalt.naming.Name;
 
 import java.util.List;
 

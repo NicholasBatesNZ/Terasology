@@ -17,7 +17,7 @@ package org.terasology.world.block.loader;
 
 import com.google.common.collect.Maps;
 import org.terasology.math.geom.Vector3f;
-import org.terasology.module.sandbox.API;
+import org.terasology.gestalt.module.sandbox.API;
 import org.terasology.world.block.BlockPart;
 import org.terasology.world.block.shapes.BlockShape;
 import org.terasology.world.block.sounds.BlockSounds;

@@ -17,10 +17,10 @@
 package org.terasology.rendering.assets.texture;
 
 import com.google.common.primitives.UnsignedBytes;
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.engine.TerasologyConstants;
 import org.terasology.math.geom.Rect2i;
-import org.terasology.naming.Name;
+import org.terasology.gestalt.naming.Name;
 import org.terasology.rendering.nui.Color;
 
 import java.awt.image.BufferedImage;

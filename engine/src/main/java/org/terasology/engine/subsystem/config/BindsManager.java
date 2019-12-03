@@ -17,7 +17,7 @@ import org.terasology.input.RegisterBindButton;
 import org.terasology.input.RegisterRealBindAxis;
 import org.terasology.input.internal.AbstractBindableAxis;
 import org.terasology.input.internal.BindableRealAxis;
-import org.terasology.module.ModuleEnvironment;
+import org.terasology.gestalt.module.ModuleEnvironment;
 
 import java.util.List;
 import java.util.Map;

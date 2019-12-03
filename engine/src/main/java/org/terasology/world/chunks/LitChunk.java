@@ -16,7 +16,7 @@
 package org.terasology.world.chunks;
 
 import org.terasology.math.geom.BaseVector3i;
-import org.terasology.module.sandbox.API;
+import org.terasology.gestalt.module.sandbox.API;
 
 /**
  * This interface describes the light properties of a chunk:

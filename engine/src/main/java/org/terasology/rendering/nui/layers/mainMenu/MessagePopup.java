@@ -15,8 +15,8 @@
  */
 package org.terasology.rendering.nui.layers.mainMenu;
 
-import org.terasology.assets.ResourceUrn;
-import org.terasology.module.sandbox.API;
+import org.terasology.gestalt.assets.ResourceUrn;
+import org.terasology.gestalt.module.sandbox.API;
 import org.terasology.rendering.nui.CoreScreenLayer;
 import org.terasology.rendering.nui.WidgetUtil;
 import org.terasology.rendering.nui.widgets.ActivateEventListener;

@@ -15,7 +15,7 @@
  */
 package org.terasology.rendering.nui.layers.ingame;
 
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.engine.GameEngine;
 import org.terasology.engine.Time;
 import org.terasology.engine.modes.StateMainMenu;

@@ -15,7 +15,7 @@
  */
 package org.terasology.logic.players;
 
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.config.Config;
 import org.terasology.engine.SimpleUri;
 import org.terasology.engine.Time;

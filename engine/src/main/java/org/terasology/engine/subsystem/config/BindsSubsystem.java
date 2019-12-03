@@ -44,11 +44,11 @@ import org.terasology.input.internal.AbstractBindableAxis;
 import org.terasology.input.internal.BindableAxisImpl;
 import org.terasology.input.internal.BindableButtonImpl;
 import org.terasology.input.internal.BindableRealAxis;
-import org.terasology.module.DependencyResolver;
-import org.terasology.module.ModuleEnvironment;
-import org.terasology.module.ResolutionResult;
-import org.terasology.module.predicates.FromModule;
-import org.terasology.naming.Name;
+import org.terasology.gestalt.module.dependencyresolution.DependencyResolver;
+import org.terasology.gestalt.module.ModuleEnvironment;
+import org.terasology.gestalt.module.dependencyresolution.ResolutionResult;
+import org.terasology.gestalt.module.predicates.FromModule;
+import org.terasology.gestalt.naming.Name;
 
 import java.lang.annotation.Annotation;
 import java.util.Collection;

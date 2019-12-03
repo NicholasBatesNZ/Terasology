@@ -15,8 +15,8 @@
  */
 package org.terasology.engine.subsystem.headless.assets;
 
-import org.terasology.assets.AssetType;
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.AssetType;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.math.geom.Matrix3f;
 import org.terasology.math.geom.Matrix4f;
 import org.terasology.rendering.assets.material.BaseMaterial;

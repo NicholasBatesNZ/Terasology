@@ -16,7 +16,7 @@
 package org.terasology.rendering.nui.layers.mainMenu;
 
 import com.google.common.base.Strings;
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.config.Config;
 import org.terasology.config.PlayerConfig;
 import org.terasology.i18n.TranslationSystem;

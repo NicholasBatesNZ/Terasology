@@ -18,7 +18,7 @@ package org.terasology.world.generator.plugin;
 import com.google.common.collect.Lists;
 import org.terasology.context.Context;
 import org.terasology.engine.SimpleUri;
-import org.terasology.module.ModuleEnvironment;
+import org.terasology.gestalt.module.ModuleEnvironment;
 import org.terasology.reflection.metadata.ClassLibrary;
 import org.terasology.reflection.metadata.ClassMetadata;
 import org.terasology.reflection.metadata.DefaultClassLibrary;

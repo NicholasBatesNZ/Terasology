@@ -15,7 +15,7 @@
  */
 package org.terasology.rendering.nui.layers.mainMenu;
 
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.config.Config;
 import org.terasology.context.Context;
 import org.terasology.engine.GameEngine;
@@ -25,7 +25,7 @@ import org.terasology.engine.modes.StateLoading;
 import org.terasology.engine.module.ModuleManager;
 import org.terasology.game.GameManifest;
 import org.terasology.i18n.TranslationSystem;
-import org.terasology.module.Module;
+import org.terasology.gestalt.module.Module;
 import org.terasology.network.NetworkMode;
 import org.terasology.registry.In;
 import org.terasology.rendering.assets.texture.Texture;

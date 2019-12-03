@@ -17,7 +17,7 @@ package org.terasology.world.block.shapes;
 
 import org.terasology.physics.shapes.CollisionShape;
 import com.google.common.collect.Maps;
-import org.terasology.assets.AssetData;
+import org.terasology.gestalt.assets.AssetData;
 import org.terasology.math.Side;
 import org.terasology.math.geom.Vector3f;
 import org.terasology.utilities.collection.EnumBooleanMap;

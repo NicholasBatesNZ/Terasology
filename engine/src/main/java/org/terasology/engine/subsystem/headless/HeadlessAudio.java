@@ -15,7 +15,7 @@
  */
 package org.terasology.engine.subsystem.headless;
 
-import org.terasology.assets.module.ModuleAwareAssetTypeManager;
+import org.terasology.gestalt.assets.module.ModuleAwareAssetTypeManager;
 import org.terasology.audio.AudioManager;
 import org.terasology.audio.StaticSound;
 import org.terasology.audio.StreamingSound;

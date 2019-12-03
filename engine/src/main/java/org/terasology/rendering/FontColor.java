@@ -16,7 +16,7 @@
 
 package org.terasology.rendering;
 
-import org.terasology.module.sandbox.API;
+import org.terasology.gestalt.module.sandbox.API;
 import org.terasology.rendering.nui.Color;
 
 /**

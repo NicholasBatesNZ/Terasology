@@ -16,7 +16,7 @@
 package org.terasology.world.block;
 
 import com.google.common.collect.Maps;
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.entitySystem.entity.EntityRef;
 import org.terasology.entitySystem.prefab.Prefab;
 import org.terasology.math.AABB;

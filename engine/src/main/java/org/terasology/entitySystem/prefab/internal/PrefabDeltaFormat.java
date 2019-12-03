@@ -16,8 +16,8 @@
 package org.terasology.entitySystem.prefab.internal;
 
 import com.google.common.base.Charsets;
-import org.terasology.assets.format.AbstractAssetAlterationFileFormat;
-import org.terasology.assets.format.AssetDataFile;
+import org.terasology.gestalt.assets.format.AbstractAssetAlterationFileFormat;
+import org.terasology.gestalt.assets.format.AssetDataFile;
 import org.terasology.entitySystem.metadata.ComponentLibrary;
 import org.terasology.entitySystem.prefab.PrefabData;
 import org.terasology.persistence.serializers.EntityDataJSONFormat;

@@ -31,7 +31,7 @@ import org.terasology.physics.engine.PhysicsEngine;
 import org.terasology.registry.In;
 import org.terasology.registry.Share;
 import org.terasology.utilities.Assets;
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.entitySystem.entity.EntityRef;
 import org.terasology.entitySystem.prefab.Prefab;
 import org.terasology.entitySystem.systems.BaseComponentSystem;

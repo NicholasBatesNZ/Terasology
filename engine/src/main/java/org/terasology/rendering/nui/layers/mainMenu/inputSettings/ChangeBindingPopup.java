@@ -15,7 +15,7 @@
  */
 package org.terasology.rendering.nui.layers.mainMenu.inputSettings;
 
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.config.BindsConfig;
 import org.terasology.config.Config;
 import org.terasology.context.Context;

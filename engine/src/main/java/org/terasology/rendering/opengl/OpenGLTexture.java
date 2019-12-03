@@ -19,8 +19,8 @@ import com.google.common.collect.Lists;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.terasology.assets.AssetType;
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.AssetType;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.engine.subsystem.lwjgl.LwjglGraphics;
 import org.terasology.math.geom.Rect2f;
 import org.terasology.math.geom.Rect2i;

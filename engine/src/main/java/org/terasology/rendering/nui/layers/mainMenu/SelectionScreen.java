@@ -17,12 +17,12 @@ package org.terasology.rendering.nui.layers.mainMenu;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.config.Config;
 import org.terasology.engine.TerasologyConstants;
 import org.terasology.i18n.TranslationSystem;
-import org.terasology.naming.Name;
-import org.terasology.naming.NameVersion;
+import org.terasology.gestalt.naming.Name;
+import org.terasology.gestalt.naming.NameVersion;
 import org.terasology.persistence.internal.GamePreviewImageProvider;
 import org.terasology.registry.In;
 import org.terasology.rendering.assets.texture.AWTTextureFormat;

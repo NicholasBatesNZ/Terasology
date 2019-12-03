@@ -26,7 +26,7 @@ import org.terasology.logic.console.Message;
 import org.terasology.logic.console.commandSystem.ConsoleCommand;
 import org.terasology.logic.console.commandSystem.exceptions.CommandSuggestionException;
 import org.terasology.logic.players.LocalPlayer;
-import org.terasology.naming.Name;
+import org.terasology.gestalt.naming.Name;
 import org.terasology.rendering.FontColor;
 import org.terasology.utilities.CamelCaseMatcher;
 

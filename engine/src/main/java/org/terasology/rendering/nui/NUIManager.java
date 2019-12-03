@@ -15,7 +15,7 @@
  */
 package org.terasology.rendering.nui;
 
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.entitySystem.systems.ComponentSystem;
 import org.terasology.reflection.metadata.ClassLibrary;
 import org.terasology.rendering.nui.asset.UIElement;

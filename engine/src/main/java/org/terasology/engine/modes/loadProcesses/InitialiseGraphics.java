@@ -16,11 +16,11 @@
 package org.terasology.engine.modes.loadProcesses;
 
 
-import org.terasology.assets.ResourceUrn;
+import org.terasology.gestalt.assets.ResourceUrn;
 import org.terasology.context.Context;
 import org.terasology.engine.TerasologyConstants;
 import org.terasology.math.geom.Vector4f;
-import org.terasology.naming.Name;
+import org.terasology.gestalt.naming.Name;
 import org.terasology.rendering.nui.NUIManager;
 import org.terasology.rendering.nui.internal.NUIManagerInternal;
 import org.terasology.rendering.primitives.Tessellator;
